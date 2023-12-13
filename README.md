@@ -1,5 +1,5 @@
 # Quant-MovingAverage
-> First-time Quant code test
+> First-time Quant code test. Featured with rational thinking and careful design.
 
 ```
 考虑某一时间序列P，每过一段时间我们能获得一对数(t, Pt)，分别为当前的时间戳t和当前取值Pt，需要计算该序列在[t-W, t]时间段内的平均取值，
